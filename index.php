@@ -72,7 +72,7 @@ $tasks = fetchTasks($pdo, $search, $status);
 </head>
 
 <body>
-    <div class="container">
+    <div class="container mb-5">
         <h1 class="mt-5">Task Manager</h1>
 
         <form method="POST" class="mb-4">

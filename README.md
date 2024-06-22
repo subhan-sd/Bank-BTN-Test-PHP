@@ -1,5 +1,11 @@
 # Task Manager
 
+This is a simple task manager application built with PHP and MySQL.
+
+## Screenshot
+
+![Screenshot](Screenshot.jpeg)
+
 ## Requirements
 
 - PHP (version 7 or above)
@@ -29,11 +35,13 @@
    );
    ```
 
-4. Update `config.php` with your database connection details.
+4. Or u can import database in directory Database
 
-5. Place the files in your web server's root directory.
+5. Update `config.php` with your database connection details.
 
-6. Open your web browser and navigate to the location where you placed the files (e.g., `http://localhost/index.php`).
+6. Place the files in your web server's root directory.
+
+7. Open your web browser and navigate to the location where you placed the files (e.g., `http://localhost/[your directory]/index.php`).
 
 ## App Description
 
