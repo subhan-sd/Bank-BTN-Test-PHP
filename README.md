@@ -8,8 +8,8 @@ This is a simple task manager application built with PHP and MySQL.
 
 ## Requirements
 
-- PHP (version 7 or above)
-- MySQL (version 5.6 or above)
+- PHP (version 7 or above) recomended PHP version 8.2.4
+- MySQL (version 5.6 or above) recomended version 10.4.28
 - Any web server software (e.g., Apache, Nginx)
 
 ## Setup Instructions
